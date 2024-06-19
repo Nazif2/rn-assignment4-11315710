@@ -17,8 +17,8 @@ const HomepageScreen = () => {
     <View style={styles.container}>
       <View style={styles.header}>
         <View style={styles.profileSection}>
-          <Text style={styles.name}>Eric Atsu</Text>
-          <Text style={styles.email}>eric@gmail.com</Text>
+          <Text style={styles.name}>Nazif</Text>
+          <Text style={styles.email}>nazifabdul77@gmail.com</Text>
         </View>
         <Image
           source={{ uri: 'https://randomuser.me/api/portraits/men/41.jpg' }}
